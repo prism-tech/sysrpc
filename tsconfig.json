@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es5"
+  },
+  "include": ["resource"],
+  "exclude": ["node_modules"]
+}
